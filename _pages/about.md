@@ -16,7 +16,7 @@ Whether you're interested in organizing your workplace, winning Medicare for All
 
 <h3>Chapter Leadership</h3>
 
-Our Steering Committee (SG) is elected annually by our membership. The SG consists of various roles as listed. **You can find their duties and responsibilities [here](../steering-committee/)**
+Our Steering Committee (SC) is elected annually by our membership. The SC consists of various roles as listed. **You can find their duties and responsibilities [here](../steering-committee/)**
 
 * **Co-Chairs:** Vacant & Corgan
 * **Secretary:**  Jamie
