@@ -1,13 +1,23 @@
 ---
 layout: page
-title: "Working Groups"
+title: "Working Groups & Committees"
 permalink: /working-groups/
 ---
 ---
 
-<h3>Gaza Solidarity</h3>
+<h3>Steering</h3>
 
-Please direct toward the Friends of Palestine NWA!
+Comprised of leaders from each of the other committees.
+
+---
+
+<h3>Communications</h3>
+TODO
+
+---
+
+<h3>Education</h3>
+TODO
 
 ---
 
@@ -17,21 +27,14 @@ The electoral working group is a group based on community that wants to increase
 
 ---
 
-<h3>Public Transit</h3>
-
-The Public Transit working group holds discussions and coordination around public transit in NWA.
-
----
-
-<h3>Labor</h3>
-
-The Labor working group focuses on labor and labor organizing.
-
-<h3>Mutual Aid</h3>
-
-The Mutual Aid working group focuses on mutual aid.
+<h3>Red Rabbits Security</h3>
+TODO
 
 ---
+
+<h3>Working Groups</h3>
+
+None at this time.
 
 <h4>Don't see a working group for you?</h4>
 
